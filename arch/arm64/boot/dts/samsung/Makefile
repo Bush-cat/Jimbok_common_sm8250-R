@@ -31,6 +31,8 @@ dts-dirs += z3q
 dts-dirs += c2q
 dts-dirs += c1q
 dts-dirs += r8q
+dts-dirs += gts7l
+dts-dirs += gts7xl
 
 
 always          := $(dtb-y)
